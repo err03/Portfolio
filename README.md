@@ -9,5 +9,6 @@
 ### CAMOT
 > This app, it is the computer city, include the hardware info, and selling the any brand of computer, for workgroup and for gaming. User also able to assemble your own computer accessories. And include the equipment that relate to the brand.
 
-[CAMOT Prototype](https://www.figma.com/file/pKpWdnQldNONtFA6KeWaJi/Camot?node-id=0%3A1 "prototype")
+[CAMOT Prototype](https://www.figma.com/file/pKpWdnQldNONtFA6KeWaJi/Camot?node-id=0%3A1?_blank "prototype" )
+
 
