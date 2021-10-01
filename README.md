@@ -12,3 +12,4 @@
 [CAMOT Prototype](https://www.figma.com/file/pKpWdnQldNONtFA6KeWaJi/Camot?node-id=0%3A1 "prototype" )
 
 
+<a href="https://www.figma.com/file/pKpWdnQldNONtFA6KeWaJi/Camot?node-id=0%3A1" target="_blank">文字描述</a>
